@@ -1,4 +1,4 @@
-# Analysis-on-Electrical-Vehicles
+# Project Title : Analysis-on-Electrical-Vehicles
 # Objective :
 To perform Exploratory Data Analysis (EDA) on Electric Vehicle data to identify key factors influencing vehicle performance, energy efficiency, battery usage, charging behavior, and consumer preferences.
 This analysis will help uncover insights that can drive innovation in EV design, optimize battery life, and improve the overall user experience.
