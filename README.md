@@ -47,7 +47,7 @@ Compare the energy consumption of EVs with traditional vehicles under similar co
 
 # Task : project was to create a racing bar chart :
 - To compare the production performance of top electric vehicle manufacturers using the given electric vehicles dataset. I have used Python's bar_chart_race module for accomplishing this task.
-
+![ev_racing_bar_plot](https://github.com/user-attachments/assets/56b82ef3-f4cf-45e2-ba23-f7ed2025a97e)
 
 # Task : Created an interactive Choropleth map :
 Using Plotly Express, visualizing the geographical distribution of EVs across regions. The power of data visualization never ceases to amaze!.
