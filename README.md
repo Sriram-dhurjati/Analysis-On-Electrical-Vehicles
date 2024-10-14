@@ -51,7 +51,7 @@ Compare the energy consumption of EVs with traditional vehicles under similar co
 
 # Task : Created an interactive Choropleth map :
 Using Plotly Express, visualizing the geographical distribution of EVs across regions. The power of data visualization never ceases to amaze!.
-
+![Screenshot 2024-10-14 110737](https://github.com/user-attachments/assets/168139b6-0aca-45d6-8df9-4869a607b08e)
 
 # CONCLUSION FROM THE ANALYSIS :
 ## Electric Range Distribution :
